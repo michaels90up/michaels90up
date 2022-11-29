@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [next-js-final-project-library](https://github.com/michaels90up/next-js-final-project-library)
 
-- 📫 How to reach me **https://www.linkedin.com/in/michael-sch%C3%BCssler-a05aba1a9/**
+- 📫 How to reach me https://www.linkedin.com/in/michael-sch%C3%BCssler-a05aba1a9/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
